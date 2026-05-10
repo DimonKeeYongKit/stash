@@ -1,0 +1,165 @@
+{
+  "$schema": "./resources.schema.md",
+  "categories": [
+    { "id": "tools",  "name": { "en": "Online tools",   "zh": "在线工具" }, "icon": "🛠"  },
+    { "id": "learn",  "name": { "en": "Learning",       "zh": "学习资料" }, "icon": "📚" },
+    { "id": "dev",    "name": { "en": "Dev resources",  "zh": "开发资源" }, "icon": "💻" },
+    { "id": "health", "name": { "en": "Health & fitness", "zh": "健康健身" }, "icon": "💪" }
+  ],
+  "resources": [
+    {
+      "id": "virustotal",
+      "title": "VirusTotal",
+      "url": "https://www.virustotal.com",
+      "category": "tools",
+      "tags": ["security", "scan"],
+      "description": {
+        "en": "Scan files and URLs against 70+ antivirus engines.",
+        "zh": "聚合 70+ 杀毒引擎，在线扫描文件 / 链接的安全性。"
+      }
+    },
+    {
+      "id": "css-animations",
+      "title": "CSS Animations",
+      "url": "https://css-animations.io/",
+      "category": "learn",
+      "tags": ["css", "animation", "tutorial"],
+      "description": {
+        "en": "Interactive course for mastering CSS animations.",
+        "zh": "交互式课程，系统学 CSS 动画。"
+      }
+    },
+    {
+      "id": "flexbox-froggy",
+      "title": "Flexbox Froggy",
+      "url": "https://flexboxfroggy.com/",
+      "category": "learn",
+      "tags": ["css", "flexbox", "game"],
+      "description": {
+        "en": "Help frogs find lily pads while practicing Flexbox.",
+        "zh": "青蛙跳荷叶小游戏，边玩边学 Flexbox。"
+      }
+    },
+    {
+      "id": "grid-garden",
+      "title": "Grid Garden",
+      "url": "https://cssgridgarden.com/",
+      "category": "learn",
+      "tags": ["css", "grid", "game"],
+      "description": {
+        "en": "Water carrots and grow your CSS Grid skills.",
+        "zh": "种胡萝卜小游戏，玩通 CSS Grid。"
+      }
+    },
+    {
+      "id": "css-diner",
+      "title": "CSS Diner",
+      "url": "https://flukeout.github.io/",
+      "category": "learn",
+      "tags": ["css", "selector", "game"],
+      "description": {
+        "en": "32 levels of CSS selector practice.",
+        "zh": "32 关 CSS 选择器练习游戏。"
+      }
+    },
+    {
+      "id": "learn-git-branching",
+      "title": "Learn Git Branching",
+      "url": "https://learngitbranching.js.org/",
+      "category": "learn",
+      "tags": ["git", "tutorial"],
+      "description": {
+        "en": "Visual, interactive way to learn Git branching.",
+        "zh": "可视化交互教程，把 Git 分支吃透。"
+      }
+    },
+    {
+      "id": "darebee",
+      "title": "DAREBEE",
+      "url": "https://darebee.com/",
+      "category": "health",
+      "tags": ["fitness", "workout", "free"],
+      "description": {
+        "en": "Free, ad-free home workouts, training plans, and fitness challenges.",
+        "zh": "免费无广告的居家训练计划和健身挑战合集。"
+      }
+    },
+    {
+      "id": "musclewiki",
+      "title": "MuscleWiki",
+      "url": "https://musclewiki.com/",
+      "category": "health",
+      "tags": ["fitness", "workout", "anatomy"],
+      "description": {
+        "en": "Pick a muscle on the body diagram to see exercises that target it.",
+        "zh": "点身体部位查对应训练动作，带演示动图。"
+      }
+    },
+    {
+      "id": "cyberchef",
+      "title": "CyberChef",
+      "url": "https://gchq.github.io/CyberChef/",
+      "category": "tools",
+      "tags": ["security", "encoding", "encryption"],
+      "description": {
+        "en": "GCHQ's web app for encoding, encryption, and data analysis recipes.",
+        "zh": "GCHQ 出品的编码/加密/数据分析瑞士军刀，浏览器里直接用。"
+      }
+    },
+    {
+      "id": "kgbook",
+      "title": "苦瓜书盘",
+      "url": "https://www.kgbook.com/",
+      "category": "learn",
+      "tags": ["ebook", "kindle", "chinese"],
+      "description": {
+        "en": "Free Chinese ebooks in 6-inch PDF, mobi, and epub for e-readers.",
+        "zh": "免费中文电子书下载，主打 6 寸 pdf / mobi，适配 Kindle 等电纸书。"
+      }
+    },
+    {
+      "id": "json4u",
+      "title": "JSON For You",
+      "url": "https://json4u.cn/editor",
+      "category": "dev",
+      "tags": ["json", "editor", "format"],
+      "description": {
+        "en": "Online JSON editor with formatting, diffing, and nested-structure analysis.",
+        "zh": "在线 JSON 编辑器，格式化、对比、嵌套结构分析一把抓。"
+      }
+    },
+    {
+      "id": "jsoncrack",
+      "title": "JSON Crack",
+      "url": "https://jsoncrack.com/editor",
+      "category": "dev",
+      "tags": ["json", "visualization", "diagram"],
+      "description": {
+        "en": "Paste JSON, get an interactive node graph you can pan and explore.",
+        "zh": "粘贴 JSON 立刻渲染成可缩放的节点图，看结构超直观。"
+      }
+    },
+    {
+      "id": "todiagram",
+      "title": "ToDiagram",
+      "url": "https://todiagram.com/editor",
+      "category": "dev",
+      "tags": ["json", "yaml", "diagram"],
+      "description": {
+        "en": "Turn JSON, YAML, XML, CSV, or Mermaid into interactive diagrams.",
+        "zh": "JSON / YAML / XML / CSV / Mermaid 一键转交互式图表。"
+      }
+    },
+    {
+      "id": "staying-fun-algo",
+      "title": "Staying Fun · 算法可视化",
+      "url": "https://staying.fun/zh/features/algorithm-visualize",
+      "category": "learn",
+      "tags": ["algorithm", "visualization", "tutorial"],
+      "description": {
+        "en": "Real-time visualization of Python / JS / C++ code to learn algorithms.",
+        "zh": "Python / JS / C++ 代码实时可视化，跟着动画啃算法。"
+      }
+    }
+  ]
+}
