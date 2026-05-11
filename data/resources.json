@@ -1,6 +1,7 @@
 {
   "$schema": "./resources.schema.md",
   "categories": [
+    { "id": "media",  "name": { "en": "Media",            "zh": "影音"     }, "icon": "🎬" },
     { "id": "tools",  "name": { "en": "Online tools",   "zh": "在线工具" }, "icon": "🛠"  },
     { "id": "learn",  "name": { "en": "Learning",       "zh": "学习资料" }, "icon": "📚" },
     { "id": "dev",    "name": { "en": "Dev resources",  "zh": "开发资源" }, "icon": "💻" },
@@ -159,6 +160,292 @@
       "description": {
         "en": "Real-time visualization of Python / JS / C++ code to learn algorithms.",
         "zh": "Python / JS / C++ 代码实时可视化，跟着动画啃算法。"
+      }
+    },
+    {
+      "id": "animagraffs",
+      "title": "Animagraffs",
+      "url": "https://animagraffs.com/",
+      "category": "learn",
+      "tags": ["animation", "visualization", "infographic"],
+      "description": {
+        "en": "Animated infographics that show how machines, tech, and nature work.",
+        "zh": "动画信息图，拆解机械、科技与自然现象的运作原理。"
+      }
+    },
+    {
+      "id": "learn-anything",
+      "title": "Learn Anything",
+      "url": "https://learn-anything.xyz/",
+      "category": "learn",
+      "tags": ["knowledge-graph", "curated", "topics"],
+      "description": {
+        "en": "Community-curated learning paths and resource graphs across any topic.",
+        "zh": "社区共建的知识图谱，按主题串起学习路径与资料。"
+      }
+    },
+    {
+      "id": "refactoring-guru",
+      "title": "Refactoring.Guru",
+      "url": "https://refactoring.guru/",
+      "category": "learn",
+      "tags": ["design-patterns", "refactoring", "tutorial"],
+      "description": {
+        "en": "Illustrated guides to design patterns, refactoring, and clean code.",
+        "zh": "图文并茂讲设计模式、重构手法和代码整洁之道。"
+      }
+    },
+    {
+      "id": "temp-pm",
+      "title": "Temp.PM",
+      "url": "https://temp.pm/",
+      "category": "tools",
+      "tags": ["privacy", "messaging", "ephemeral"],
+      "description": {
+        "en": "Share self-destructing messages that delete themselves after a timer.",
+        "zh": "发送阅后即焚的私密消息，到点自动销毁。"
+      }
+    },
+    {
+      "id": "lucid",
+      "title": "Lucid",
+      "url": "https://lucid.co/",
+      "category": "tools",
+      "tags": ["diagram", "whiteboard", "collaboration"],
+      "description": {
+        "en": "Online diagramming and whiteboarding suite for teams (Lucidchart + Lucidspark).",
+        "zh": "团队协作的在线绘图与白板套件（Lucidchart + Lucidspark）。"
+      }
+    },
+    {
+      "id": "canva",
+      "title": "Canva",
+      "url": "https://www.canva.com/",
+      "category": "tools",
+      "tags": ["design", "graphics", "templates"],
+      "description": {
+        "en": "Drag-and-drop design tool with templates for posters, slides, social posts, and more.",
+        "zh": "拖拽式在线设计工具，海报 / 幻灯片 / 社交配图都有模板。"
+      }
+    },
+    {
+      "id": "lunapic",
+      "title": "LunaPic",
+      "url": "https://www5.lunapic.com/editor/",
+      "category": "tools",
+      "tags": ["image", "editor", "photo"],
+      "description": {
+        "en": "Free online photo editor with filters, effects, and quick touch-ups.",
+        "zh": "免费在线图片编辑器，滤镜、特效、快速修图一应俱全。"
+      }
+    },
+    {
+      "id": "regulex",
+      "title": "Regulex",
+      "url": "https://jex.im/regulex/",
+      "category": "dev",
+      "tags": ["regex", "visualization", "debugging"],
+      "description": {
+        "en": "Visualize JavaScript regular expressions as railroad diagrams.",
+        "zh": "把 JavaScript 正则表达式画成铁路图，结构一眼看懂。"
+      }
+    },
+    {
+      "id": "devdocs",
+      "title": "DevDocs",
+      "url": "https://devdocs.io/",
+      "category": "dev",
+      "tags": ["documentation", "api", "reference"],
+      "description": {
+        "en": "Fast, unified API documentation browser for 100+ languages and frameworks.",
+        "zh": "聚合 100+ 语言和框架的 API 文档，搜索飞快，可离线。"
+      }
+    },
+    {
+      "id": "unsplash",
+      "title": "Unsplash",
+      "url": "https://unsplash.com/",
+      "category": "tools",
+      "tags": ["photos", "stock", "free"],
+      "description": {
+        "en": "Free high-resolution stock photos you can use without attribution.",
+        "zh": "免费高清图库，无需署名即可商用。"
+      }
+    },
+    {
+      "id": "tinypng",
+      "title": "TinyPNG",
+      "url": "https://tinypng.com/",
+      "category": "tools",
+      "tags": ["image", "compression", "optimization"],
+      "description": {
+        "en": "Smart lossy compression that shrinks PNG and JPEG files in the browser.",
+        "zh": "智能有损压缩 PNG / JPEG，浏览器里直接搞定瘦身。"
+      }
+    },
+    {
+      "id": "remove-bg",
+      "title": "remove.bg",
+      "url": "https://www.remove.bg/",
+      "category": "tools",
+      "tags": ["image", "background", "ai"],
+      "description": {
+        "en": "Automatically removes the background from any photo in seconds.",
+        "zh": "一键 AI 抠图，几秒钟去掉照片背景。"
+      }
+    },
+    {
+      "id": "color-hunt",
+      "title": "Color Hunt",
+      "url": "https://colorhunt.co/palettes/pastel",
+      "category": "tools",
+      "tags": ["color", "palette", "design"],
+      "description": {
+        "en": "Curated color palettes for designers, browsable by mood and style.",
+        "zh": "精选配色板合集，按色调和风格挑选。"
+      }
+    },
+    {
+      "id": "carbon",
+      "title": "Carbon",
+      "url": "https://carbon.now.sh/",
+      "category": "dev",
+      "tags": ["code", "screenshot", "snippet"],
+      "description": {
+        "en": "Generate beautiful, share-ready images of your source code.",
+        "zh": "把源代码生成精美图片，发推文 / 写文档都好看。"
+      }
+    },
+    {
+      "id": "react-gg",
+      "title": "react.gg",
+      "url": "https://react.gg/",
+      "category": "learn",
+      "tags": ["react", "course", "interactive"],
+      "description": {
+        "en": "Interactive React course with lessons, coding challenges, and hook projects.",
+        "zh": "交互式 React 课程，配套挑战题、测验和自定义 Hook 项目。"
+      }
+    },
+    {
+      "id": "react-bits",
+      "title": "React Bits",
+      "url": "https://reactbits.dev/get-started/index",
+      "category": "dev",
+      "tags": ["react", "components", "animation"],
+      "description": {
+        "en": "Drop-in animated UI components for React projects.",
+        "zh": "可直接复用的 React 动效 UI 组件库。"
+      }
+    },
+    {
+      "id": "calculator-net",
+      "title": "Calculator.net",
+      "url": "https://www.calculator.net/",
+      "category": "tools",
+      "tags": ["calculator", "math", "finance"],
+      "description": {
+        "en": "Hundreds of free calculators covering finance, fitness, math, and more.",
+        "zh": "数百种免费计算器，覆盖金融、健身、数学等场景。"
+      }
+    },
+    {
+      "id": "ifixit",
+      "title": "iFixit",
+      "url": "https://www.ifixit.com/",
+      "category": "learn",
+      "tags": ["repair", "diy", "guide"],
+      "description": {
+        "en": "Step-by-step repair guides for phones, laptops, appliances, and more.",
+        "zh": "手机、电脑、家电的图文拆修指南，附零件与工具清单。"
+      }
+    },
+    {
+      "id": "iyf-tv",
+      "title": "爱壹帆",
+      "url": "https://www.iyf.tv/",
+      "category": "media",
+      "tags": ["streaming", "movies", "tv", "chinese"],
+      "description": {
+        "en": "Free HD streaming site for movies, TV series, anime, and variety shows.",
+        "zh": "免费高清影视站，电影、剧集、动漫、综艺一站全有。"
+      }
+    },
+    {
+      "id": "tstrs-audio",
+      "title": "tstrs.me · 有声书",
+      "url": "https://tstrs.me/audio",
+      "category": "learn",
+      "tags": ["audiobook", "chinese", "listening"],
+      "description": {
+        "en": "Online audiobook library for listening on the go.",
+        "zh": "在线有声书资源库，通勤路上也能听书。"
+      }
+    },
+    {
+      "id": "speedtest",
+      "title": "Speedtest",
+      "url": "https://www.speedtest.net/",
+      "category": "tools",
+      "tags": ["network", "speedtest", "diagnostic"],
+      "description": {
+        "en": "Ookla's classic test for measuring download, upload, and ping.",
+        "zh": "Ookla 出品的网速测试，测下载 / 上传 / 延迟一站搞定。"
+      }
+    },
+    {
+      "id": "dushupai",
+      "title": "读书派",
+      "url": "https://www.dushupai.com/",
+      "category": "learn",
+      "tags": ["ebook", "chinese", "download"],
+      "description": {
+        "en": "Free Chinese ebooks in epub, azw3, mobi, and pdf across many genres.",
+        "zh": "免费中文电子书下载，epub / azw3 / mobi / pdf 全格式覆盖。"
+      }
+    },
+    {
+      "id": "shitjournal",
+      "title": "S.H.*.T",
+      "url": "https://shitjournal.org/articles",
+      "category": "learn",
+      "tags": ["articles", "peer-review", "community"],
+      "description": {
+        "en": "Community-reviewed essays across sciences, humanities, info, and tech — no credentials required.",
+        "zh": "社区共审的跨学科文章站，文理工信都有，观点先于身份。"
+      }
+    },
+    {
+      "id": "wolframalpha",
+      "title": "Wolfram Alpha",
+      "url": "https://www.wolframalpha.com/",
+      "category": "tools",
+      "tags": ["math", "computation", "knowledge"],
+      "description": {
+        "en": "Computational knowledge engine that answers math, science, and data queries.",
+        "zh": "计算型知识引擎，数学、科学、数据问题一问就答。"
+      }
+    },
+    {
+      "id": "photoskop",
+      "title": "Photoskop",
+      "url": "https://photoskop.com/",
+      "category": "learn",
+      "tags": ["photography", "interactive", "tutorial"],
+      "description": {
+        "en": "Learn photography hands-on with interactive lessons on exposure, lighting, and posing.",
+        "zh": "互动式摄影教学，动手玩明白曝光、用光和摆姿。"
+      }
+    },
+    {
+      "id": "60fps-design",
+      "title": "60fps",
+      "url": "https://60fps.design/",
+      "category": "tools",
+      "tags": ["animation", "ui", "inspiration"],
+      "description": {
+        "en": "Curated gallery of UI/UX animation and interaction details from top iOS and web apps.",
+        "zh": "精选 UI / 交互动效画廊，扒一线 iOS 和 Web 应用的动画细节。"
       }
     }
   ]
