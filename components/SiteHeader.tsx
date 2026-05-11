@@ -11,8 +11,8 @@ export function SiteHeader({ onMenuClick }: { onMenuClick: () => void }) {
   const dict = t(locale);
 
   return (
-    <header className="sticky top-0 z-20 flex h-14 items-center justify-between gap-3 border-b border-zinc-200 bg-white/85 pl-4 pr-14 backdrop-blur dark:border-zinc-800 dark:bg-zinc-950/85 sm:pl-8 sm:pr-14">
-      <div className="flex min-w-0 flex-1 items-center gap-3">
+    <header className="relative z-20 flex h-14 shrink-0 items-center justify-between gap-3 border-b border-zinc-200 bg-white/85 px-4 backdrop-blur dark:border-zinc-800 dark:bg-zinc-950/85 sm:px-8">
+      <div className="flex min-w-0 flex-1 items-center gap-3 h-14">
         <button
           type="button"
           onClick={onMenuClick}
@@ -39,7 +39,9 @@ export function SiteHeader({ onMenuClick }: { onMenuClick: () => void }) {
           {dict.brandSuffix}
         </span>
       </div>
-      <Toggles />
+      <div className="mr-8">
+        <Toggles />
+      </div>
       <a
         href={REPO_URL}
         target="_blank"

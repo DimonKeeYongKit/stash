@@ -27,6 +27,7 @@ type Dict = {
   toggleLanguageLabel: string;
   toggleThemeToLight: string;
   toggleThemeToDark: string;
+  backToTop: string;
 };
 
 export const dictionaries: Record<Locale, Dict> = {
@@ -43,6 +44,7 @@ export const dictionaries: Record<Locale, Dict> = {
     toggleLanguageLabel: "切换到中文",
     toggleThemeToLight: "Switch to light mode",
     toggleThemeToDark: "Switch to dark mode",
+    backToTop: "Back to top",
   },
   zh: {
     brandSuffix: "· 资源中转站",
@@ -56,6 +58,7 @@ export const dictionaries: Record<Locale, Dict> = {
     toggleLanguageLabel: "Switch to English",
     toggleThemeToLight: "切换到浅色模式",
     toggleThemeToDark: "切换到深色模式",
+    backToTop: "回到顶部",
   },
 };
 
