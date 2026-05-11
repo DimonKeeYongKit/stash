@@ -23,9 +23,11 @@ type Dict = {
   empty: string;
   passwordLabel: (code: string) => string;
   footer: (n: number, m: number) => string;
+  sourceLabel: string;
   toggleLanguageLabel: string;
   toggleThemeToLight: string;
   toggleThemeToDark: string;
+  backToTop: string;
 };
 
 export const dictionaries: Record<Locale, Dict> = {
@@ -38,9 +40,11 @@ export const dictionaries: Record<Locale, Dict> = {
     empty: "No matching resources.",
     passwordLabel: (code) => `Code ${code}`,
     footer: (n, m) => `${n} resources · ${m} categories`,
+    sourceLabel: "Source",
     toggleLanguageLabel: "切换到中文",
     toggleThemeToLight: "Switch to light mode",
     toggleThemeToDark: "Switch to dark mode",
+    backToTop: "Back to top",
   },
   zh: {
     brandSuffix: "· 资源中转站",
@@ -50,9 +54,11 @@ export const dictionaries: Record<Locale, Dict> = {
     empty: "没有匹配的资源。",
     passwordLabel: (code) => `提取码 ${code}`,
     footer: (n, m) => `共收录 ${n} 条资源 · ${m} 个分类`,
+    sourceLabel: "源码",
     toggleLanguageLabel: "Switch to English",
     toggleThemeToLight: "切换到浅色模式",
     toggleThemeToDark: "切换到深色模式",
+    backToTop: "回到顶部",
   },
 };
 

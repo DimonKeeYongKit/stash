@@ -10,12 +10,14 @@ export function Sidebar({
   onClose,
   active,
   onJump,
+  onScrollTop,
 }: {
   categories: Category[];
   open: boolean;
   onClose: () => void;
   active: string;
   onJump: (id: string) => void;
+  onScrollTop: () => void;
 }) {
   const { locale } = useLocale();
 
@@ -39,7 +41,7 @@ export function Sidebar({
           href="#top"
           onClick={(e) => {
             e.preventDefault();
-            window.scrollTo({ top: 0, behavior: "smooth" });
+            onScrollTop();
             onClose();
           }}
           className="mb-2 flex h-10 w-10 items-center justify-center rounded-lg text-xl transition hover:bg-zinc-100 dark:hover:bg-zinc-800"

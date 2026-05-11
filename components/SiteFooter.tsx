@@ -15,7 +15,7 @@ export function SiteFooter({
 
   return (
     <footer className="border-t border-zinc-200 bg-white px-4 py-6 text-center text-xs text-zinc-500 dark:border-zinc-800 dark:bg-zinc-950 dark:text-zinc-400 sm:px-8">
-      {dict.footer(resourceCount, categoryCount)}
+      <span>{dict.footer(resourceCount, categoryCount)}</span>
     </footer>
   );
 }
