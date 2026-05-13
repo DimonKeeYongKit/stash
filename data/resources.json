@@ -447,6 +447,149 @@
         "en": "Curated gallery of UI/UX animation and interaction details from top iOS and web apps.",
         "zh": "精选 UI / 交互动效画廊，扒一线 iOS 和 Web 应用的动画细节。"
       }
+    },
+    {
+      "id": "google-public-dns-cache",
+      "title": "Google Public DNS Cache",
+      "url": "https://developers.google.com/speed/public-dns/cache",
+      "category": "tools",
+      "tags": ["network", "dns", "diagnostic"],
+      "description": {
+        "en": "Look up what Google's public DNS resolver currently has cached for any domain.",
+        "zh": "查询 Google 公共 DNS 当前缓存的域名解析结果，排查 DNS 问题。"
+      }
+    },
+    {
+      "id": "state-of-react-2025",
+      "title": "State of React 2025",
+      "url": "https://2025.stateofreact.com/",
+      "category": "dev",
+      "tags": ["react", "survey", "trends"],
+      "description": {
+        "en": "Annual community survey on React usage, tooling, and ecosystem trends.",
+        "zh": "年度 React 社区调查报告，速览生态、工具链与开发者动向。"
+      }
+    },
+    {
+      "id": "postgresqlconf-tuning",
+      "title": "PostgreSQLCO.NF Tuning Guide",
+      "url": "https://postgresqlco.nf/tuning-guide",
+      "category": "dev",
+      "tags": ["postgresql", "database", "performance"],
+      "description": {
+        "en": "Per-parameter tuning guide for PostgreSQL with recommended values and context.",
+        "zh": "逐项讲解 PostgreSQL 配置参数的调优指南，附推荐值与背景。"
+      }
+    },
+    {
+      "id": "hacksplaining",
+      "title": "Hacksplaining",
+      "url": "https://www.hacksplaining.com/lessons",
+      "category": "learn",
+      "tags": ["security", "web", "tutorial"],
+      "description": {
+        "en": "Interactive lessons walking through common web vulnerabilities and how to fix them.",
+        "zh": "交互式教程，带你看懂常见 Web 漏洞和对应防御写法。"
+      }
+    },
+    {
+      "id": "tryhackme",
+      "title": "TryHackMe",
+      "url": "https://tryhackme.com/",
+      "category": "learn",
+      "tags": ["security", "ctf", "hands-on"],
+      "description": {
+        "en": "Browser-based cybersecurity training with guided rooms and hands-on labs.",
+        "zh": "浏览器里就能玩的网络安全训练平台，闯关式学攻防实操。"
+      }
+    },
+    {
+      "id": "iconoir",
+      "title": "Iconoir",
+      "url": "https://iconoir.com/",
+      "category": "tools",
+      "tags": ["icons", "svg", "design"],
+      "description": {
+        "en": "Open-source icon library with 1600+ free SVG icons, no account required.",
+        "zh": "开源图标库，1600+ 免费 SVG 图标，免注册直接下。"
+      }
+    },
+    {
+      "id": "civitai",
+      "title": "Civitai",
+      "url": "https://civitai.com/",
+      "category": "tools",
+      "tags": ["ai", "stable-diffusion", "models"],
+      "description": {
+        "en": "Hub for sharing Stable Diffusion checkpoints, LoRAs, and AI-generated art.",
+        "zh": "Stable Diffusion 模型 / LoRA / AI 图集合分享社区。"
+      }
+    },
+    {
+      "id": "hellogithub",
+      "title": "HelloGitHub",
+      "url": "https://hellogithub.com/",
+      "category": "dev",
+      "tags": ["open-source", "discovery", "chinese"],
+      "description": {
+        "en": "Monthly digest of interesting, beginner-friendly open-source projects on GitHub.",
+        "zh": "每月精选 GitHub 上有趣、入门友好的开源项目。"
+      }
+    },
+    {
+      "id": "versus",
+      "title": "Versus",
+      "url": "https://versus.com/",
+      "category": "tools",
+      "tags": ["comparison", "product", "research"],
+      "description": {
+        "en": "Side-by-side comparisons for phones, cameras, cities, and thousands of other things.",
+        "zh": "并排对比手机、相机、城市等上千类目，挑东西做决策好用。"
+      }
+    },
+    {
+      "id": "playphrase-me",
+      "title": "PlayPhrase.me",
+      "url": "https://www.playphrase.me/",
+      "category": "learn",
+      "tags": ["english", "movies", "listening"],
+      "description": {
+        "en": "Search any English phrase to see it spoken in movie and TV clips.",
+        "zh": "输入英文短语，立刻看一串电影 / 剧集里的真人发音片段。"
+      }
+    },
+    {
+      "id": "seeing-theory",
+      "title": "Seeing Theory",
+      "url": "https://seeing-theory.brown.edu/",
+      "category": "learn",
+      "tags": ["statistics", "probability", "visualization"],
+      "description": {
+        "en": "Brown University's visual, interactive introduction to probability and statistics.",
+        "zh": "布朗大学出品的概率统计可视化入门，交互动画讲透核心概念。"
+      }
+    },
+    {
+      "id": "stackshare",
+      "title": "StackShare",
+      "url": "https://stackshare.io/",
+      "category": "dev",
+      "tags": ["tech-stack", "comparison", "tools"],
+      "description": {
+        "en": "Discover and compare the tech stacks that companies and developers use.",
+        "zh": "查看与对比各家公司、开发者在用的技术栈。"
+      }
+    },
+    {
+      "id": "mubu-explore",
+      "title": "幕布 · 探索",
+      "url": "https://mubu.com/explore",
+      "category": "tools",
+      "tags": ["outline", "mindmap", "notes"],
+      "description": {
+        "en": "Browse community-shared outlines and mind maps from the Mubu outliner.",
+        "zh": "幕布社区分享的大纲笔记与思维导图合集，找灵感、抄结构。"
+      }
     }
   ]
 }
