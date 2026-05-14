@@ -590,6 +590,61 @@
         "en": "Browse community-shared outlines and mind maps from the Mubu outliner.",
         "zh": "幕布社区分享的大纲笔记与思维导图合集，找灵感、抄结构。"
       }
+    },
+    {
+      "id": "motionsites",
+      "title": "MotionSites",
+      "url": "https://motionsites.ai/",
+      "category": "tools",
+      "tags": ["animation", "inspiration", "landing-page"],
+      "description": {
+        "en": "Gallery of animation-rich landing pages paired with AI-ready design prompts.",
+        "zh": "动效落地页灵感库，配套 AI 设计提示词可直接套用。"
+      }
+    },
+    {
+      "id": "figcomponents",
+      "title": "Figcomponents",
+      "url": "https://www.figcomponents.com/",
+      "category": "tools",
+      "tags": ["figma", "components", "ui"],
+      "description": {
+        "en": "Curated library of ready-made UI components to copy straight into Figma.",
+        "zh": "精选 UI 组件库，复制粘贴直接塞进 Figma 项目。"
+      }
+    },
+    {
+      "id": "godly",
+      "title": "Godly",
+      "url": "https://godly.website/",
+      "category": "tools",
+      "tags": ["web-design", "inspiration", "gallery"],
+      "description": {
+        "en": "Hand-picked gallery of divinely designed websites for inspiration.",
+        "zh": "精选「神级」网页设计画廊，找网站灵感来这里。"
+      }
+    },
+    {
+      "id": "designspells",
+      "title": "Design Spells",
+      "url": "https://www.designspells.com/",
+      "category": "tools",
+      "tags": ["ui", "microinteraction", "inspiration"],
+      "description": {
+        "en": "Collection of delightful UI details and microinteractions spotted in real apps.",
+        "zh": "收录真实产品里令人惊喜的 UI 细节与微交互。"
+      }
+    },
+    {
+      "id": "variant-community",
+      "title": "Variant Community",
+      "url": "https://variant.com/community",
+      "category": "tools",
+      "tags": ["design", "inspiration", "community"],
+      "description": {
+        "en": "Endless feed of community-shared design explorations to scroll through.",
+        "zh": "社区共享的设计探索流，无尽滚动找灵感。"
+      }
     }
   ]
 }
