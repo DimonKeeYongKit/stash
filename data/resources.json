@@ -645,6 +645,226 @@
         "en": "Endless feed of community-shared design explorations to scroll through.",
         "zh": "社区共享的设计探索流，无尽滚动找灵感。"
       }
+    },
+    {
+      "id": "x-minus-ai",
+      "title": "X-Minus AI",
+      "url": "https://x-minus.pro/ai",
+      "category": "tools",
+      "tags": ["audio", "music", "ai", "stem-separation"],
+      "description": {
+        "en": "AI stem splitter that pulls vocals, drums, bass, and other tracks out of any song.",
+        "zh": "AI 分轨工具，从任意歌曲里抽离人声、鼓、贝斯等音轨。"
+      }
+    },
+    {
+      "id": "dimensions",
+      "title": "Dimensions.com",
+      "url": "https://www.dimensions.com/",
+      "category": "tools",
+      "tags": ["design", "reference", "architecture", "measurements"],
+      "description": {
+        "en": "Reference database of dimensioned drawings for everyday objects, spaces, and animals.",
+        "zh": "万物尺寸参考库，附带比例图纸，设计师 / 建筑师查尺寸必备。"
+      }
+    },
+    {
+      "id": "roadmap-sh",
+      "title": "roadmap.sh",
+      "url": "https://roadmap.sh/",
+      "category": "learn",
+      "tags": ["roadmap", "career", "developer"],
+      "description": {
+        "en": "Community-curated learning roadmaps for developer roles and technologies.",
+        "zh": "社区共建的开发者学习路线图，按岗位和技术栈给出进阶路径。"
+      }
+    },
+    {
+      "id": "class-central",
+      "title": "Class Central",
+      "url": "https://www.classcentral.com/",
+      "category": "learn",
+      "tags": ["mooc", "course", "search"],
+      "description": {
+        "en": "Search engine for free online courses from Coursera, edX, and other MOOC providers.",
+        "zh": "MOOC 课程搜索引擎，一站找 Coursera / edX 等平台的免费在线课。"
+      }
+    },
+    {
+      "id": "modevol",
+      "title": "渐构 Modevol",
+      "url": "https://www.modevol.com/",
+      "category": "learn",
+      "tags": ["learning", "methodology", "chinese"],
+      "description": {
+        "en": "Video and animated lessons on learning science — how memory and cognition actually work.",
+        "zh": "用动画讲清学习科学：记忆、认知与高效掌握新知识的方法论。"
+      }
+    },
+    {
+      "id": "antv-infographic",
+      "title": "AntV Infographic",
+      "url": "https://infographic.antv.vision/",
+      "category": "dev",
+      "tags": ["visualization", "infographic", "framework"],
+      "description": {
+        "en": "Declarative framework for generating infographics, with an AI generator and gallery.",
+        "zh": "声明式信息图生成框架，附带 AI 生成器和示例画廊。"
+      }
+    },
+    {
+      "id": "yandex",
+      "title": "Yandex",
+      "url": "https://yandex.com/",
+      "category": "tools",
+      "tags": ["search", "search-engine", "images"],
+      "description": {
+        "en": "Russian search engine with strong reverse image search and integrated maps/translate.",
+        "zh": "俄罗斯搜索引擎，反向图片搜索强，附带地图 / 翻译等服务。"
+      }
+    },
+    {
+      "id": "ionic",
+      "title": "Ionic",
+      "url": "https://ionic.io/",
+      "category": "dev",
+      "tags": ["mobile", "framework", "cross-platform"],
+      "description": {
+        "en": "Cross-platform mobile app framework for building iOS, Android, and web apps from one codebase.",
+        "zh": "跨平台移动应用框架，一套代码同时跑 iOS / Android / Web。"
+      }
+    },
+    {
+      "id": "thestocks",
+      "title": "TheStocks.im",
+      "url": "https://thestocks.im/",
+      "category": "tools",
+      "tags": ["photos", "stock", "video", "free"],
+      "description": {
+        "en": "One-stop aggregator of free stock photos, videos, icons, fonts, and color palettes.",
+        "zh": "免费图库聚合站，照片 / 视频 / 图标 / 字体 / 配色一站集齐。"
+      }
+    },
+    {
+      "id": "dark-design",
+      "title": "Dark.design",
+      "url": "https://www.dark.design/",
+      "category": "tools",
+      "tags": ["web-design", "dark-mode", "inspiration"],
+      "description": {
+        "en": "Handpicked gallery of dark-themed websites across software, AI tools, and portfolios.",
+        "zh": "精选暗色风格网站画廊，找深色 UI 灵感来这里。"
+      }
+    },
+    {
+      "id": "iconify",
+      "title": "Iconify",
+      "url": "https://icon-sets.iconify.design/",
+      "category": "tools",
+      "tags": ["icons", "svg", "design"],
+      "description": {
+        "en": "Unified search across 200+ icon sets with 200k+ SVG icons, ready to copy or import.",
+        "zh": "聚合 200+ 图标库的统一搜索，20 万+ SVG 图标随挑随用。"
+      }
+    },
+    {
+      "id": "uiverse",
+      "title": "Uiverse",
+      "url": "https://uiverse.io/",
+      "category": "dev",
+      "tags": ["ui", "components", "css"],
+      "description": {
+        "en": "Community library of free, copy-paste HTML/CSS and Tailwind UI components.",
+        "zh": "社区共建的免费 UI 组件库，HTML / CSS / Tailwind 代码复制即用。"
+      }
+    },
+    {
+      "id": "uidesign-tips",
+      "title": "UIDesign.tips",
+      "url": "https://www.uidesign.tips/",
+      "category": "learn",
+      "tags": ["design", "ui", "tips"],
+      "description": {
+        "en": "Practical UI design tips and landing page teardowns for developers and junior designers.",
+        "zh": "面向开发者和入门设计师的 UI 设计技巧与落地页拆解。"
+      }
+    },
+    {
+      "id": "designsystems-surf",
+      "title": "Design Systems Surf",
+      "url": "https://designsystems.surf/",
+      "category": "tools",
+      "tags": ["design-system", "components", "reference"],
+      "description": {
+        "en": "Searchable gallery of 90+ design systems from Adobe, Apple, Google, and other top companies.",
+        "zh": "精选 90+ 大厂设计系统画廊，组件 / 基础规范一站查。"
+      }
+    },
+    {
+      "id": "tapnow",
+      "title": "TapNow",
+      "url": "https://app.tapnow.ai",
+      "category": "tools",
+      "tags": ["ai", "creative", "canvas"],
+      "description": {
+        "en": "Agentic creative canvas where AI agents help generate and iterate on visual ideas.",
+        "zh": "AI 代理驱动的创意画布，让智能体协作生成与迭代视觉创意。"
+      }
+    },
+    {
+      "id": "facebook-ads-library",
+      "title": "Facebook Ad Library",
+      "url": "https://www.facebook.com/ads/library",
+      "category": "tools",
+      "tags": ["ads", "research", "marketing"],
+      "description": {
+        "en": "Meta's public archive of all ads running across Facebook, Instagram, and Messenger.",
+        "zh": "Meta 公开广告库，查 Facebook / Instagram / Messenger 上正在投放的广告。"
+      }
+    },
+    {
+      "id": "xiniushu-prompt-guide",
+      "title": "学习 Prompt",
+      "url": "https://prompt-guide.xiniushu.com/",
+      "category": "learn",
+      "tags": ["ai", "prompt-engineering", "chinese"],
+      "description": {
+        "en": "Structured Chinese guide to prompt engineering, from beginner techniques to advanced cases.",
+        "zh": "中文 Prompt 工程系统教程，从入门到进阶配套实战案例。"
+      }
+    },
+    {
+      "id": "huggingface",
+      "title": "Hugging Face",
+      "url": "https://huggingface.co/",
+      "category": "tools",
+      "tags": ["ai", "ml", "models", "datasets"],
+      "description": {
+        "en": "Hub for sharing AI models, datasets, and demo spaces across NLP, vision, and audio.",
+        "zh": "AI 模型 / 数据集 / Demo 空间共享平台，NLP、视觉、语音都覆盖。"
+      }
+    },
+    {
+      "id": "resume-com",
+      "title": "Resume.com",
+      "url": "https://www.resume.com/",
+      "category": "tools",
+      "tags": ["resume", "cv", "career"],
+      "description": {
+        "en": "Free online resume builder with ATS-friendly templates and one-click PDF export.",
+        "zh": "免费在线简历生成器，模板贴合 ATS 筛选，一键导出 PDF。"
+      }
+    },
+    {
+      "id": "buildcores",
+      "title": "BuildCores",
+      "url": "https://www.buildcores.com/",
+      "category": "tools",
+      "tags": ["pc-build", "hardware", "3d"],
+      "description": {
+        "en": "3D PC builder and parts picker with RGB and fan simulators for planning custom rigs.",
+        "zh": "3D 装机配置器，配件搭配 + RGB / 风扇预览，DIY 装机先模拟一遍。"
+      }
     }
   ]
 }
